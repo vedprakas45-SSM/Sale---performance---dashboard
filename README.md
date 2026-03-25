@@ -20,7 +20,7 @@ The dashboard provides insights into:
 - Sales show an increasing trend over time
 
 ## 📷 Dashboard Preview
-(Upload image here)
+![Dashboard](sales-dashboard.png)
 
 ## 📁 Files
 - Sales_dashboard_ved.xlsx
