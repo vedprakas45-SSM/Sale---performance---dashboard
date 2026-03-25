@@ -24,4 +24,4 @@ The dashboard provides insights into:
 
 ## 📁 Files
 - Sales_dashboard_ved.xlsx
-- sales-dashboard.png
+- dashboard.png
