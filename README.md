@@ -7,7 +7,7 @@ An interactive Excel dashboard built using the Superstore dataset to analyze sal
 This project presents an executive-level sales analytics dashboard designed to provide a quick overview of key business performance indicators, sales trends, and regional performance.
 The dashboard includes interactive slicers that allow users to filter the connected KPIs and visualizations dynamically.
 
-![Sales Performance Dashboard](Dashboard.png)
+[![Sales Performance Dashboard](Dashboard.png)](Dashboard.png)
 
 ## 🎯 Objectives
 
